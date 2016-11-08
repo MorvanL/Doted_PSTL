@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//doted/__main__.py=utf-8
+encoding//doted/major_1/minor_0/app/Doted.py=utf-8
+encoding//doted/major_1/minor_0/controller/MainWindowController.py=utf-8
+encoding//doted/major_1/minor_0/controller/TextGraphController.py=utf-8
+encoding//doted/major_1/minor_0/model/Edge.py=utf-8
+encoding//doted/major_1/minor_0/model/Graph.py=utf-8
+encoding//doted/major_1/minor_0/model/Node.py=utf-8
+encoding//doted/major_1/minor_0/utils/DotAttrsUtils.py=utf-8
+encoding//doted/major_1/minor_0/utils/EdgeUtils.py=utf-8
+encoding//doted/major_1/minor_0/view/widget/TextGraphView.py=utf-8
